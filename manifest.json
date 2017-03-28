@@ -1,0 +1,24 @@
+{
+  "short_name": "QR Code Generator",
+  "name": "QR Code Generator/Scanner",
+  "icons": [
+    {
+      "src": "images/icon48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon92.png",
+      "sizes": "92x92",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
